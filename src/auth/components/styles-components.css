@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(221, 221, 228);
+    
+}
+
+.contenedor{
+    text-align: center;
+}
+
+button{
+
+    background-color: black;
+    color: white;
+    padding: 12px;
+    margin: 10px 10px;
+    font-size: large;
+    transition: background-color .3s ease-out;
+  }
+  
+  button:hover{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+
+  input{
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    font-size: medium;
+  }
